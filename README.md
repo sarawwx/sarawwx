@@ -2,11 +2,7 @@
 
 <h3>Tenho 19 anos, moro no Espiríto Santo, Brasil.</h3>
 
-<div align="center">
-      <a href="https://github.com/sarawwx">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarawwx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarawwx&layout=compact&langs_count=7&theme=cobalt"/>
-    </div>
+
   
  <h2> I'm learning : </h2> 
   <div style="display: inline_block"><br>
