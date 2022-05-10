@@ -14,13 +14,10 @@
   <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sara-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> 
   <br>
-  <img align="right" alt="Sara-pic" height="200" style="border-radius:50px;" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif">
-</div>
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   
-  ☯
- 
+  <br>
+  <img align="right" alt="Sara-pic" height="200" style="border-radius:70px;" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif">
+  
+</div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
