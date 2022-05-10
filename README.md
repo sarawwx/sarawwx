@@ -16,8 +16,8 @@
   <br>
   
   <br>
-  <img align="right" alt="Sara-pic" height="200" style="border-radius:70px;" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif">
-  
+  <img align="right" alt="Sara-pic" height="200" style="border-radius:70px;" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif"> 
 </div>
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
