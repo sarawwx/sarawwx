@@ -2,7 +2,7 @@
 
 <h3>Tenho 20 anos, moro no Espiríto Santo, Brasil.</h3>
 
-
+<br>
   
  <h2> I'm learning : </h2> 
  
@@ -21,12 +21,11 @@
     <img align="center" alt="Sara-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Sara-Photoshop" height="40" width="40" margin: "70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /> 
     <img align="center" alt="Sara-Illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /> 
-    
-  <br>
-  
-  <br>
-  <img align="right" alt="Sara-pic" height="200" style="border-radius:70px;" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif"> 
-</div>
+    <img align="right" alt="Sara-pic" height="200" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif" /> 
+  </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+<br>
+<br>
+
+[![sarawwx](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawwx&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
