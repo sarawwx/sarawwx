@@ -1,10 +1,9 @@
-<h1> Hi there! I'm Sara ツ </h1>
-
-<h3>Tenho 20 anos, moro no Espiríto Santo, Brasil.</h3>
+# Hi there! I'm Sara ツ 
+### Tenho 20 anos, moro no Espiríto Santo, Brasil.
 
 <br>
-  
- <h2> I'm learning : </h2> 
+
+ <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
  
   <div style="display: inline_block"><br>
     <img align="center" alt="Sara-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -27,5 +26,5 @@
 <br>
 <br>
 
-[![sarawwx](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawwx&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![sarawwx](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawwx&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
