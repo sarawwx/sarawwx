@@ -20,7 +20,9 @@
     <img align="center" alt="Sara-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Sara-Photoshop" height="40" width="40" margin: "70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /> 
     <img align="center" alt="Sara-Illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /> 
-    <img align="right" alt="Sara-pic" height="200" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif" /> 
+ <br>
+ 
+ <img align="right" alt="Sara-pic" height="200" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif" /> 
   </div>
 
 <br>
