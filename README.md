@@ -3,7 +3,7 @@
 
 <br>
 
- <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3 align="left">Languages and Tools:</h3>
  
   <div style="display: inline_block"><br>
     <img align="center" alt="Sara-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -20,6 +20,7 @@
     <img align="center" alt="Sara-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Sara-Photoshop" height="40" width="40" margin: "70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /> 
     <img align="center" alt="Sara-Illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /> 
+ <br>
  <br>
  
  <img align="right" alt="Sara-pic" height="200" src="https://static.wikia.nocookie.net/steven-universe/images/6/61/Love_Letters_-_Connie_writing.gif/revision/latest?cb=20180709220535.gif" /> 
